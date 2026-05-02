@@ -26,7 +26,7 @@
     "@adiwajshing/baileys": "4.1.0",
     "@adiwajshing/keyed-db":"0.2.4",
     "acrcloud":"1.4.0",
-    "string-crypto": "2.0.2",
+    "string-crypto": "3.0.2",
     "mongodb": "^4.3.1",
     "node-webpmux": "^3.1.0",
     "async-g-i-s": "1.0.0",
